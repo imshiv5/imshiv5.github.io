@@ -1,0 +1,45 @@
+body {
+  background-color: lightblue;
+  background-size: cover;
+}
+h2 {
+  text-align: center;
+}
+p {
+  color: #d46a6a;
+  text-align: center;
+  border: 5px solid purple;
+  cursor: pointer;
+}
+
+p {
+  line-height: 20px;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 180%;
+  font-family: "Bonheur Royale", cursive;
+  letter-spacing: 3px;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+.webtext:first-child {
+  border: 5px dashed green;
+}
+.active:last-child {
+  color: #d46a6a;
+}
+
+#div1 {
+  background: #d46a6a;
+}
+footer {
+  text-align: center;
+}
+
+#heart {
+  color: red;
+}
